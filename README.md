@@ -58,16 +58,6 @@
 - Migrated an Aura component to **Lightning Web Component** (JS/HTML).  
 - Ensured seamless UI–component transparency.
 
-## 📚 Academic Projects
-### Eventhub – Mobile App Backend  
-- Designed REST API in Django; managed providers and Firebase notifications.
-
-### Cash Flow – Web App Backend  
-- Created a Spring Boot REST API for user management and cash-flow control.
-
-### Qualitor – Web App Backend  
-- Developed a Django-based REST API with role-based filters and project oversight.
-
 ## 🌐 Languages
 - 🇪🇸 Spanish – Native  
 - 🇺🇸 English – B2 (TOEFL ITP)
